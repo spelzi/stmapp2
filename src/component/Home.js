@@ -32,7 +32,9 @@ const Home = () => {
           </Popups>
         </div>
       </body>
-      <footer></footer>
+      <footer>
+        <h2>@From St Manuel</h2>
+      </footer>
     </div>
   );
 };
